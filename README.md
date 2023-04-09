@@ -42,3 +42,8 @@ Here's a sentence with a footnote. [^1]
 
 ### My Great Heading {#custom-id}
 
+~~The world is not flat!~~
+
+- [x] Study R
+- [ ] Attend Jasmine's birthday
+- [ ] Watch one episode of The Goblin
