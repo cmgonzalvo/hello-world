@@ -25,3 +25,13 @@ I study Data Science at [Coursera](https://www.coursera.org/in-progress).
 
 This is a cute photo of a dog.
 ![alt text](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
+
+I want to go to 🗾 to eat 🍣 and 🍜!
+
+```
+{
+"firstName": "Clarisse",
+"lastName": "Gonzalvo",
+"age": 29
+}
+
