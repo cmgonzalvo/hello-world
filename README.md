@@ -49,3 +49,5 @@ Here's a sentence with a footnote. [^1]
 - [ ] Watch one episode of The Goblin
 
 I need to highlight these ==very important words==.
+
+I need to highlight these ==very important words==.
