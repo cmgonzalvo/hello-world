@@ -23,4 +23,4 @@ Hi! I'm Cla. I obtained my Ph.D. in Economics at *Hiroshima University*.
 I study Data Science at [Coursera](https://www.coursera.org/in-progress).
 
 This is a cute photo of a dog.
-![alt text](image.jpg)
+![alt text](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
