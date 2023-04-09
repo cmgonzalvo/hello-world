@@ -47,3 +47,5 @@ Here's a sentence with a footnote. [^1]
 - [x] Study R
 - [ ] Attend Jasmine's birthday
 - [ ] Watch one episode of The Goblin
+
+I need to highlight these ==very important words==.
