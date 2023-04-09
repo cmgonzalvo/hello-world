@@ -37,8 +37,8 @@ I want to go to 🗾 to eat 🍣 and 🍜!
 ```
 
 
-Here's a sentence with a footnote. [ˆ1]
-[ˆ1]: This is the footnote.
+Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
 
 
 
